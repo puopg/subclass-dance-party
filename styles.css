@@ -45,6 +45,12 @@ body, a:link, a:visited, a:active{
 }
 #luigi{
 }
+#lakitu{
+  -webkit-animation-duration: 1s;
+  -webkit-animation-delay: 0s;
+  -webkit-animation-iteration-count: infinite;
+}
+
 #peach{
   -webkit-animation-duration: 5s;
   -webkit-animation-delay: 0s;
